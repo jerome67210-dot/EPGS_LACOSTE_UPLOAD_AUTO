@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/jerome67210-dot/EPGS_LACOSTE_UPLOAD_AUTO/main/epg_gvcfpaev.xml.gz" x-tvg-url="https://raw.githubusercontent.com/jerome67210-dot/EPGS_LACOSTE_UPLOAD_AUTO/main/epg_gvcfpaev.xml.gz"
+#EXTM3U url-tvg="http://gvcfpaev.fhvpnw.com/xmltv.php?username=1OG1YE4J&password=5D9933UB" x-tvg-url="http://gvcfpaev.fhvpnw.com/xmltv.php?username=1OG1YE4J&password=5D9933UB"
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR| TF1 FHD" tvg-logo="https://lo1.in/fr/tf1hd.png" group-title="FRANCE FHD",FR| TF1 FHD
 http://gvcfpaev.fhvpnw.com/live/1OG1YE4J/5D9933UB/154.ts
 #EXTINF:-1 tvg-id="france2.fr" tvg-name="FR| FRANCE 2 FHD" tvg-logo="https://lo1.in/fr/fr2hd.png" group-title="FRANCE FHD",FR| FRANCE 2 FHD
